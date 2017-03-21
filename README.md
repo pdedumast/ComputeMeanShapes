@@ -14,6 +14,7 @@ Building ComputeMeanShape requires to have built previously:
 * VTK version 7
 * ITK 
 * SlicerExecutionModel
+* CMake
 
 
 ###### Linux or MacOSX 
